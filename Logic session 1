@@ -1,0 +1,23 @@
+Logic brainstorming session 1 30/8/2025 
+
+Functionality: 
+Essentially we have two options in my mind, we build something that interacts with google maps itself, and is like a wrapper that uses the add destionation feature to middle input 
+the maccas you need along the way. 
+The second option we have is to actually build a frontend as well as a backend, using some sort of frontend language to make a little map maybe like golang or something. 
+
+The first option sounds a lot easier so lets start with that: 
+
+after doing some research, the google maps API is billed and costs a decent amount of money so lets do it a different way. 
+
+HIGH LEVEL WHAT WILL HAPPEN: 
+- user puts in an origin input 
+- user puts in a destination output 
+- we consider possible mcdonalds within some kind of reasonable range (LOGIC STEP HERE) 
+- there needs to be some kind of consideration of what maccas are open and have drive through etc, 
+we need a ranking of favourable 
+- we calculate the two segment journey from origin to mcdonalds then from mcdonalds to destination 
+- 
+- 
+
+
+
